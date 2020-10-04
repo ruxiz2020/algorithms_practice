@@ -10,3 +10,4 @@
 |5|Medium|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Input: s = "babad"; Output: "bab"; Note: "aba" is also a valid answer.| [Python (1 iteration thru the string with helper function to find max substr at each position)](longest_palindromic_substring.py)||
 |6|Medium|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Input: s = "PAYPALISHIRING", numRows = 3; Output: "PAHNAPLSIIGYIR" | [Python (first figure out interval from number of rows)](zigzag_conversion.py)|[plot](photos/zigzag.png)|
 |7|Easy|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Input: x = 123; Output: 321 | [Python (x mode 10 & Floor division, and remember to deal with negative number)](reverse_integer.py)||
+|9|Easy|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Input: x = 121; Output: true | [Python (similar to 7 Reverse Integer)](palindrome_number.py)||
