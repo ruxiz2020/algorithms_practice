@@ -37,3 +37,4 @@
 |46|Medium|[Permutations](https://leetcode.com/problems/permutations/) |Input: [1,2,3];Output:[  [1,2,3],  [1,3,2],  [2,1,3],  [2,3,1],  [3,1,2],  [3,2,1]]| [Python (dfs)](permutations.py)|[plot](photos/permutations.png)|
 |47|Medium|[Permutations II](https://leetcode.com/problems/permutations-ii/) |Input: [1,1,2];Output:[  [1,1,2],  [1,2,1],  [2,1,1]]| [Python (dfs additional check {if nums[i] == previousNum: continue})](permutations_ii.py)||
 |48|Medium|[Rotate Image](https://leetcode.com/problems/rotate-image/) |Input: matrix = [[1,2,3],[4,5,6],[7,8,9]];Output: [[7,4,1],[8,5,2],[9,6,3]]| [Python (2 steps, 1st flip columns to rows, 2nd reverse each row)](rotate_image.py)|[plot](photos/rotate_image.png)|
+|49|Medium|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) |Input: strs = ["eat","tea","tan","ate","nat","bat"];Output: [["bat"],["nat","tan"],["ate","eat","tea"]]| [Python (use collections.defaultdict(list))](group_anagrams.py)||
