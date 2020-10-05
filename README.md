@@ -48,3 +48,4 @@
 |58|Easy|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |Input: "Hello World" Output: 5| [Python (2 pointers left and right)](length_of_last_word.py)||
 |59|Medium|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) |Input: 3 Output:[ [ 1, 2, 3 ], [ 8, 9, 4 ], [ 7, 6, 5 ]]| [Python ](spiral_matrix_ii.py)||
 |61|Medium|[Rotate List](https://leetcode.com/problems/rotate-list/) |Input: 1->2->3->4->5->NULL, k = 2 Output: 4->5->1->2->3->NULL| [Python ](rotate_list.py)||
+|62|Medium|[Unique Paths](https://leetcode.com/problems/unique-paths/) |Input: m = 3, n = 2 Output: 3 Explanation:From the top-left corner, there are a total of 3 ways to reach the bottom-right corner: 1. Right -> Down -> Down 2. Down -> Down -> Right 3. Down -> Right -> Down| [Python (permutation formula  n choose m-n ) ](unique_paths.py)||
