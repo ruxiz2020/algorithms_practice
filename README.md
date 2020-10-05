@@ -46,3 +46,4 @@
 |55|Medium|[Jump Game](https://leetcode.com/problems/jump-game/) |Input: nums = [2,3,1,1,4];Output: true;Explanation: Jump 1 step from index 0 to 1, then 3 steps to the last index.| [Python](jump_game.py)||
 |56|Medium|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) |Input: intervals = [[1,4],[4,5]];Output: [[1,5]]; Explanation: Intervals [1,4] and [4,5] are considered overlapping.| [Python](merge_intervals.py)||
 |58|Easy|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |Input: "Hello World" Output: 5| [Python (2 pointers left and right)](length_of_last_word.py)||
+|59|Medium|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) |Input: 3 Output:[ [ 1, 2, 3 ], [ 8, 9, 4 ], [ 7, 6, 5 ]]| [Python ](spiral_matrix_ii.py)||
