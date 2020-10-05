@@ -54,3 +54,4 @@
 |66|Easy|[Plus One](https://leetcode.com/problems/plus-one/) |Input: digits = [1,2,3] Output: [1,2,4] Explanation: The array represents the integer 123.| [Python ](plus_one.py)||
 |67|Easy|[Add Binary](https://leetcode.com/problems/add-binary/) |Input: a = "11", b = "1" Output: "100"| [Python ](add_binary.py)||
 |69|Easy|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) |Input: 4 Output: 2| [Python (binary search)](sqrtx.py)||
+|70|Easy|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |Input: 2 Output: 2 Explanation: There are two ways to climb to the top. 1. 1 step + 1 step 2. 2 steps| [Python (dp)](climbing_stairs.py)||
