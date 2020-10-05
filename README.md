@@ -53,3 +53,4 @@
 |64|Medium|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) |Input: [  [1,3,1],  [1,5,1],  [4,2,1]] Output: 7 Explanation: Because the path 1→3→1→1→1 minimizes the sum.| [Python (recursion with memorization ) ](minimum_path_sum.py)||
 |66|Easy|[Plus One](https://leetcode.com/problems/plus-one/) |Input: digits = [1,2,3] Output: [1,2,4] Explanation: The array represents the integer 123.| [Python ](plus_one.py)||
 |67|Easy|[Add Binary](https://leetcode.com/problems/add-binary/) |Input: a = "11", b = "1" Output: "100"| [Python ](add_binary.py)||
+|69|Easy|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) |Input: 4 Output: 2| [Python (binary search)](sqrtx.py)||
