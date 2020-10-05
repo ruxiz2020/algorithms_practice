@@ -40,3 +40,4 @@
 |49|Medium|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) |Input: strs = ["eat","tea","tan","ate","nat","bat"];Output: [["bat"],["nat","tan"],["ate","eat","tea"]]| [Python (use collections.defaultdict(list))](group_anagrams.py)||
 |50|Medium|[Pow(x, n)](https://leetcode.com/problems/powx-n/) |Input: x = 2.00000, n = 10;Output: 1024.00000| [Python (keep on floor division with 2, and deal with corner cases such as negative number, 0, and x or n == 1)](powx_n.py)||
 |51|Hard|[N-Queens](https://leetcode.com/problems/n-queens/) |[see plot](photos/queens.png)| [Python (dfs)](n_queens.py)|[see plot](photos/queens.png)|
+|53|Easy|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |Input: nums = [-2,1,-3,4,-1,2,1,-5,4];Output: 6; Explanation: [4,-1,2,1] has the largest sum = 6.| [Python (create 2 vars 1) tmp to record previous sum and a 2) totalsum, if tmp < 0 discard and keep on track of MAX totalsum)](maximum_subarray.py)||
